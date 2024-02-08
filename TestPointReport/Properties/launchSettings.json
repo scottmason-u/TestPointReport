@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "TestPointReport": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\TestPrograms myfile.csv",
+      "workingDirectory": "C:\\TestPrograms"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+C:\1projects\TestPointReport\TestPointReport\bin\Release\net7.0\TestPointReport.exe
+C:\1projects\TestPointReport\TestPointReport\bin\Release\net7.0\TestPointReport.deps.json
+C:\1projects\TestPointReport\TestPointReport\bin\Release\net7.0\TestPointReport.runtimeconfig.json
+C:\1projects\TestPointReport\TestPointReport\bin\Release\net7.0\TestPointReport.dll
+C:\1projects\TestPointReport\TestPointReport\bin\Release\net7.0\TestPointReport.pdb
+C:\1projects\TestPointReport\TestPointReport\bin\Release\net7.0\Newtonsoft.Json.dll
+C:\1projects\TestPointReport\TestPointReport\obj\Release\net7.0\TestPointReport.csproj.AssemblyReference.cache
+C:\1projects\TestPointReport\TestPointReport\obj\Release\net7.0\TestPointReport.GeneratedMSBuildEditorConfig.editorconfig
+C:\1projects\TestPointReport\TestPointReport\obj\Release\net7.0\TestPointReport.AssemblyInfoInputs.cache
+C:\1projects\TestPointReport\TestPointReport\obj\Release\net7.0\TestPointReport.AssemblyInfo.cs
+C:\1projects\TestPointReport\TestPointReport\obj\Release\net7.0\TestPointReport.csproj.CoreCompileInputs.cache
+C:\1projects\TestPointReport\TestPointReport\obj\Release\net7.0\TestPointReport.csproj.CopyComplete
+C:\1projects\TestPointReport\TestPointReport\obj\Release\net7.0\TestPointReport.dll
+C:\1projects\TestPointReport\TestPointReport\obj\Release\net7.0\refint\TestPointReport.dll
+C:\1projects\TestPointReport\TestPointReport\obj\Release\net7.0\TestPointReport.pdb
+C:\1projects\TestPointReport\TestPointReport\obj\Release\net7.0\TestPointReport.genruntimeconfig.cache
+C:\1projects\TestPointReport\TestPointReport\obj\Release\net7.0\ref\TestPointReport.dll
